@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+/* Smartphones */
+/* Tablet */
+/* Normal */
+/* Widescreen */
+/* Landscape */
+body,
+html {
+  scroll-behavior: smooth;
+}
+
+#showcase {
+  background: url("../img/showcase.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 70vh;
+}
+#showcase h1 {
+  padding-top: 200px;
+}
+
+#divider {
+  background: url("../img/divider.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 250px;
+}
+
+/*# sourceMappingURL=style.css.map */
